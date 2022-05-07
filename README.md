@@ -97,12 +97,12 @@
 
 <div align="center">
 
+<p align="left"> <a href="https://github.com/Pasan-Pahasara/github-readme-stats"><img alt="Pasan-Pahasara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasan-Pahasara&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="142px"/></a> </p>
+  
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasan-Pahasara&langs_count=5&theme=gotham" alt="Pasan-Pahasara | My GitHub Language Stats" /> -->
+  
 ***My Contributions*** 😥 <br>
 ![snake](https://github.com/Pasan-Pahasara/red-alpha/blob/red-alpha/github-contribution-grid-snake.svg)
 </div>
-
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasan-Pahasara&langs_count=5&theme=gotham" alt="Pasan-Pahasara | My GitHub Language Stats" /> -->
-
-<p align="left"> <a href="https://github.com/Pasan-Pahasara/github-readme-stats"><img alt="Pasan-Pahasara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasan-Pahasara&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>
 
 <a href="https://github.com/Pasan-Pahasara/github-readme-activity-graph"><img alt="Pasan-Pahasara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pasan-Pahasara&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
