@@ -37,17 +37,16 @@
 <a href="https://www.buymeacoffee.com/pasanpahasara"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
 
 ***
-<div align="center">
+<!-- <div align="center">
 
 <h3 align="center">
   Profile 3D Contributions 🔰
 </h3>
 
 <img src="https://github.com/Pasan-Pahasara/red-alpha/blob/red-alpha/profile-night-view.svg"/>
-</div>
+</div> -->
 
 [comment]: <> ([Readme-File-Styles]:https://github.com/Pasan-Pahasara/Readme-File-Styles)
----
 
 ## 🔥 Streak Stats
 
@@ -101,8 +100,28 @@
   
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasan-Pahasara&langs_count=5&theme=gotham" alt="Pasan-Pahasara | My GitHub Language Stats" /> -->
   
-***My Contributions*** 😥 <br>
+<!-- ***My Contributions*** 😥 <br>
 ![snake](https://github.com/Pasan-Pahasara/red-alpha/blob/red-alpha/github-contribution-grid-snake.svg)
-</div>
+</div> -->
 
 <a href="https://github.com/Pasan-Pahasara/github-readme-activity-graph"><img alt="Pasan-Pahasara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pasan-Pahasara&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</div>
+
+<h4 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
+<img src="https://github.com/Pasan-Pahasara/md-alpha/blob/main/bye.gif" width="30px">
+</h4>
+
+<div align="center">
+
+![repo size](https://img.shields.io/github/repo-size/Pasan-Pahasara/Pasan-Pahasara?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/Pasan-Pahasara/Pasan-Pahasara?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Pasan-Pahasara/Pasan-Pahasara?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/Pasan-Pahasara/Pasan-Pahasara?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
