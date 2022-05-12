@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p><br>
 
-![Untitled-1](https://github.com/Pasan-Pahasara/red-alpha/blob/red-alpha/Readme-Styles.jpg)
+![Untitled-1](https://github.com/Pasan-Pahasara/md-alpha/blob/main/Readme-Styles.jpg)
 
 <img src="https://komarev.com/ghpvc/?username=pahasara1&label=Profile%20views&color=0e75b6&style=flat" alt="Pasan-Pahasara" /> </p>
 
@@ -16,7 +16,7 @@
 ## :sassy_man:  About me
 
 - 🔭 I’m currently working on `Freelance` Thanks for dropping by! I like to `Code` and `Learn` to `build the next generation applications`.
-- :school: I am  `Studied` at IJSE-Institute of Software Engineering... <img align="right" alt="GIF" src="https://github.com/Pasan-Pahasara/red-alpha/blob/red-alpha/image.gif?raw=true" width="300" height="300" style="max-width: 100%;">
+- :school: I am  `Studied` at IJSE-Institute of Software Engineering... <img align="right" alt="GIF" src="https://github.com/Pasan-Pahasara/md-alpha/blob/main/image.gif?raw=true" width="300" height="300" style="max-width: 100%;">
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer mainly at `Codeforces`.
