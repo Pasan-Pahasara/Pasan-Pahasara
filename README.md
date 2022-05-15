@@ -9,7 +9,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=pahasara1&label=Profile%20views&color=0e75b6&style=flat" alt="Pasan-Pahasara" /> </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Pasan-Pahasara.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pahasara1?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Pasan-Pahasara.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Pasan-Pahasara?tab=followers)
 
 
 
