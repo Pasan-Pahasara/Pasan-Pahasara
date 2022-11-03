@@ -5,8 +5,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p><br>
 
-![Untitled-1](https://github.com/Pasan-Pahasara/md-alpha/blob/main/Readme-Styles.jpg)
-
+<!-- ![Untitled-1](https://github.com/Pasan-Pahasara/md-alpha/blob/main/Readme-Styles.jpg)
+ -->
+ ## Awards
+<a href="https://holopin.io/@pasanpahasara">
+  <img src="https://holopin.me/pasanpahasara" alt="@pasanpahasara's Holopin board" />
+</a>
+</br>
+ 
 <img src="https://komarev.com/ghpvc/?username=pahasara1&label=Profile%20views&color=0e75b6&style=flat" alt="Pasan-Pahasara" /> </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/Pasan-Pahasara.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Pasan-Pahasara?tab=followers)
