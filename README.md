@@ -53,7 +53,6 @@
   </a>
 </p>
 </br>
-</br>
 
 ## 🔥 Streak Stats
 <p align="center">
@@ -63,17 +62,17 @@
     </a>
   </p>
 </p>
-<br/>
 
 ## 📊 My Github Status
   <br/>
+  <div align="center">
     <a href="https://github.com/Pasan-Pahasara/github-readme-stats"><img alt="Pasan Pahasara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pasan-Pahasara&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
   <a href="https://github.com/Pasan-Pahasara/github-readme-stats"><img alt="Pasan Pahasara's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasan-Pahasara&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
-  <br/>
+  </div>
   <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Connect with me:
-<p align="left">
+<p align="center">
 <a href = "https://lk.linkedin.com/in/pasan-pahasara-356a75165" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/PasanPahasara" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 <a href = "pasanpahasara7788@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
