@@ -23,7 +23,7 @@
 - :nerd_face: Always `learning new things`
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Coding.
-- 🌱 Currently learning `Java`, `CSS`, `PHP`, `MySql`, `Python`, `JavaScript` & `HTML`.
+- 🌱 Currently learning `Java`, `CSS`, `React`, `MySql`, `React Native`, `JavaScript` & `HTML`.
   <br>
 <div>
 
@@ -43,7 +43,7 @@
 ## 🚀 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,gcp,git,hibernate,html,mysql,java,js,nodejs,php,py,spring" />
+   <img src="https://skillicons.dev/icons?i=react,bootstrap,css,mongodb,tailwindcss,git,hibernate,html,mysql,java,js,spring" />
   </a>
 </p>
 
