@@ -23,7 +23,7 @@
 - :nerd_face: Always `learning new things`
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Coding.
-- 🌱 Currently learning `Java`, `CSS`, `React`, `MySql`, `React Native`, `JavaScript` & `HTML`.
+- 🌱 Currently learning `Flutter`, `Dart`, `React`, `Nest`, `Express`, `Firebase` & `PostgreSQL`.
   <br>
 <div>
 
@@ -41,17 +41,42 @@
 [comment]: <> ([Readme-File-Styles]:https://github.com/Pasan-Pahasara/Readme-File-Styles)
 
 ## 🚀 Languages and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=react,bootstrap,css,mongodb,tailwindcss,git,hibernate,html,mysql,java,js,spring" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=figma,xd,github,androidstudio,idea,vscode,eclipse" />
-  </a>
-</p>
+<div align="center">
+<code><img height="40" src="https://skillicons.dev/icons?i=flutter"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=dart"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=react"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=nest"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=next"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=express"></code>  
+<code><img height="40" src="https://skillicons.dev/icons?i=ts"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=js"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=java"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=spring"></code>  
+<code><img height="40" src="https://skillicons.dev/icons?i=nodejs"></code>  
+<code><img height="40" src="https://skillicons.dev/icons?i=bootstrap"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=tailwindcss"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=materialui"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=html"></code>  
+<code><img height="40" src="https://skillicons.dev/icons?i=css"></code>  
+<code><img height="40" src="https://skillicons.dev/icons?i=git"></code>
+<br>  
+<br>  
+<code><img height="40" src="https://skillicons.dev/icons?i=mongodb"></code>  
+<code><img height="40" src="https://skillicons.dev/icons?i=hibernate"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=mysql"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=firebase"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=postgresql"></code>
+<br>  
+<br>  
+<code><img height="40" src="https://skillicons.dev/icons?i=figma"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=xd"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=github"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=androidstudio"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=idea"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=vscode"></code>
+    <code><img height="40" src="https://skillicons.dev/icons?i=eclipse"></code>
+</div>
 </br>
 
 ## 🔥 Streak Stats
@@ -70,7 +95,7 @@
   </p>
   <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Connect with me:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">🫶 Connect with me
 <p align="center">
 <a href = "https://lk.linkedin.com/in/pasan-pahasara-356a75165" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/PasanPahasara" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
@@ -79,8 +104,11 @@
 <a href = "https://www.facebook.com/nowety.pasan" target="blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "https://www.hackerrank.com/pasanpahasara771" target="blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
 </p> 
+
+<h2>⚡ Recent GitHub Activity</h2>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-<a href="https://github.com/Pasan-Pahasara/github-readme-activity-graph"><img alt="Pasan-Pahasara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pasan-Pahasara&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/Pasan-Pahasara/github-readme-activity-graph"><img alt="Pasan-Pahasara's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Pasan-Pahasara&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </div>
 
 <h2>:thought_balloon: Quote of the day</h2>
